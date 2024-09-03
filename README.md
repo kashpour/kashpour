@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Kashbor</h1>
 <h3 align="center">A passionate Front-End Developer from Libya</h3>
 
-- 🔭 I’m currently working in a financial technology company based on Tripoli 
+- 🔭 I’m currently working in a financial technology company based in Tripoli 
 - 🌱 I’m currently learning **Mobile App Development in Flutter**
 - 📚 I'm a Computer Science Engineer and a Software Developer.
 - 📫 How to reach me **kashboribrahim@gmail.com**
