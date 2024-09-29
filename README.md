@@ -1,5 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/kashpour)
-
 <h1 align="center">Hi 👋, I'm Ibrahim Kashbor</h1>
 <h3 align="center">A passionate Front-End Developer from Libya</h3>
 
@@ -7,9 +5,6 @@
 - 🌱 I’m currently learning **Mobile App Development in Flutter**
 - 📚 I'm a Computer Science Engineer and a Software Developer.
 - 📫 How to reach me **kashboribrahim@gmail.com**
-
-<img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
