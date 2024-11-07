@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Kashbor</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim Kashpour</h1>
 <h3 align="center">A passionate Front-End Developer from Libya</h3>
 
 - 🔭 I’m currently working in a financial technology company based in Tripoli 
