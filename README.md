@@ -50,7 +50,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![kashpour's Stats](https://github-readme-stats.vercel.app/api?username=kashpour&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) &emsp; ![kashpour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashpour&theme=vue-dark&hide_border=true)
+![kashpour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashpour&theme=vue-dark&hide_border=true)
 
 ![kashpour's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashpour&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
