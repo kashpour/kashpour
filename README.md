@@ -57,9 +57,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kashpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashpour" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ibrahimkashpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibrahimkashpour" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ibrahim.kashpour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ibrahim K. Kashpour" height="30" width="40" /></a>
-<a href="https://instagram.com/iamibrahimkashpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamibrahimkashpour" height="30" width="40" /></a>
+<a href="https://twitter.com/kashpour" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashpour" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ibrahimkashpour" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibrahimkashpour" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ibrahim.kashpour/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ibrahim K. Kashpour" height="30" width="40" /></a>
+<a href="https://instagram.com/iamibrahimkashpour" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamibrahimkashpour" height="30" width="40" /></a>
 </p>
 
